@@ -35,7 +35,7 @@ Obs: Script de instalação homologado para as versões 14.04, 16.04 e 18.04 do 
 
 Caso se deseje uma VM pronta, no link abaixo pode-se fazer o download de uma imagem do GNU/Linux Ubuntu 18.04:
 
- [Link de Download](https://mega.nz/#!6SpD3awL!VJsZ8q3Q_hvMAv4ZMD8tlQ0UuWu-AG3syebIq6b3wVM)
+ [Link de Download](https://mega.nz/file/XfwiBTAT#Gplqo8_OTE8VuBQIu0i7ykJhuh00brYdBkbLUaPgBTg)
 
 #### Credenciais:
 
